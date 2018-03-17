@@ -1,2 +1,3 @@
 ﻿i am a
 i am b
+我是c
